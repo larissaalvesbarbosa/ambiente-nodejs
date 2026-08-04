@@ -1,0 +1,29 @@
+{
+  "name": "ambiente-nodejs",
+  "version": "1.0.0",
+  "description": "Olá! Este tutorial vai te ensinar a preparar seu ambiente de trabalho e manter seu código seguro no GitHub. Siga cada passo com atenção.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx src/app.ts",
+    "build": "tsc",
+    "start": "node dist/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larissaalvesbarbosa/ambiente-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/larissaalvesbarbosai/ambiente-nodejs/issues"
+  },
+  "homepage": "https://github.com/larissaalvesbarbosa/ambiente-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.23.5",
+    "typescript": "^7.0.2"
+  }
+}
