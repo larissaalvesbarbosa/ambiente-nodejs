@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "modelo": "box braids",
+        "comprimento": "longo",
+        "cor": "castanho",
+        "com jumbo": true
+    },
+
+    {
+        "id": 2,
+        "modelo": "nagô",
+        "comprimento": "curto",
+        "cor": "preto",
+        "com jumbo": false
+    },
+
+    {
+        "id": 3,
+        "modelo": "fulani",
+        "comprimento": "médio",
+        "cor": "bordô",
+        "com jumbo": true
+    }
+]

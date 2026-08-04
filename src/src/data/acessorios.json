@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "tipo": "colar",
+        "formato": "coração",
+        "banho": "ouro",
+        "cravejado": false
+    },
+
+    {
+        "id": 2,
+        "tipo": "brinco",
+        "formato": "aspiral",
+        "banho": "prata",
+        "cravejado": true
+    },
+
+    {
+        "id": 3,
+        "tipo": "anel",
+        "formato": "flor",
+        "banho": "dourado",
+        "cravejado": false
+    }
+]
+

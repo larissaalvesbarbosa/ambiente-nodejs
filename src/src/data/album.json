@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "artista": "Tyler, the creator",
+        "titulo": "Chomakopia",
+        "ano": 2024,
+        "gênero": "hip hop",
+        "faixas": 14,
+        "nacional": false
+    },
+
+    {
+        "id": 2,
+        "artista": "Anavitória",
+        "titulo": "Esquinas",
+        "ano": 2024,
+        "gênero": "pop",
+        "faixas": 14,
+        "nacional": true
+    },
+
+    {
+        "id": 3,
+        "artista": "Frank Ocean",
+        "titulo": "Blonde",
+        "ano": 2016,
+        "gênero": "R&B e soul",
+        "faixas": 12,
+        "nacional": false
+    }
+]
